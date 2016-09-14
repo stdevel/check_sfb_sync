@@ -1,0 +1,18 @@
+name: check_sfb_sync
+description: "file:///README.md"
+url: "https://github.com/stdevel/check_sfb_sync"
+tags: Nagios,Icinga,Windows,Skype
+vendor: Windows
+target: Operating System
+type: Plugin
+license: gplv3
+releases: 
+  - 
+    name: 1.0.0
+    description: "1.0.0 Release"
+    files: 
+      - 
+        name: check_sfb_sync.ps1
+        url: "file:///check_sfb_sync.ps1"
+        description: "Initial release"
+        checksum: 70bbb66a97ccc89d194421de5a2b70c1
